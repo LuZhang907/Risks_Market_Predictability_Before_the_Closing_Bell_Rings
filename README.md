@@ -4,7 +4,7 @@ This study explores the predictability of the last 30 minutes of intraday stock 
 
 Key findings reveal that factors like overnight effects and intraday momentum have weakened over time, while newer patterns, such as "boring day" lunchtime returns and post-Fed decision reactions, have emerged. We also update our findings with data from 2022-2024 to provide fresh insights into the current market landscape.
 
-The paper can be funded here: * [Market Predictability Before the Closing Bell Rings](https://www.mdpi.com/2227-9091/12/11/180).
+The paper can be found here: * [Market Predictability Before the Closing Bell Rings](https://www.mdpi.com/2227-9091/12/11/180).
 
 ## Citation  
 If you find our work  useful in your research, please consider citing us:
